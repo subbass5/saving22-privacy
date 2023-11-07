@@ -1,5 +1,5 @@
 <h1>Privacy Policy</h1>
-<p>Last updated: January 21, 2022</p>
+<p>Last updated: November 07, 2023</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.termsfeed.com/blog/sample-privacy-policy-template/" target="_blank">Privacy Policy Template</a>.</p>
 <h1>Interpretation and Definitions</h1>
